@@ -1,0 +1,35 @@
+# Blender MTL File: 'parking (2).blend'
+# Material Count: 3
+newmtl Material.000_pilar.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.231774 0.512000 0.498957
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ../texture/pilar.jpg
+
+
+newmtl Material.001_pilar.jpg_pilar.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.231774 0.512000 0.498957
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ../texture/pilar.jpg
+
+
+newmtl Material.002_Concreto.jpg.004_Concreto.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ../texture/Conc.jpg
+
+

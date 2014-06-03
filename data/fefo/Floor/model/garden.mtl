@@ -1,0 +1,24 @@
+# Blender MTL File: 'floor.blend'
+# Material Count: 2
+newmtl Material.002_grass.jpg
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.548841 0.008816
+Ks 0.241892 0.250000 0.108382
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ../textures/grass.jpg
+
+
+newmtl Material.003_wall.jpg
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.581452 0.581452 0.581452
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ../textures/wall.jpg
+
+

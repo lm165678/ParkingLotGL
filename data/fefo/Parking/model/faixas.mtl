@@ -1,0 +1,12 @@
+# Blender MTL File: 'parking.blend'
+# Material Count: 1
+newmtl Material.001
+Ns 164.705882
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 0.992367
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+
+

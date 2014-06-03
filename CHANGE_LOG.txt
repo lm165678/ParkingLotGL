@@ -1,0 +1,11 @@
+﻿Arrumada a luz. (Agora a luz não se move com a camera)
+
+
+Modificado modelo da luminária (Agora apenas 4)
+
+
+Adicionado 2 luzes (total: 4, uma em cada luminária)
+
+Iron Man Atira.
+
+Se o tiro acerta em um carro, ele não anda mais, apenas mexe a roda.
